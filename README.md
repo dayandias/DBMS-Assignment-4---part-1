@@ -12,4 +12,8 @@ In most of the other tables, the column calues are just 'Column name + increment
 In screencast recordings, the first video 'creating tables.mp4', depicts how each table created and the constraints associated with that particular table.
 The second video 'insert into tables.mp4', depicts 1 or 2 insertions of data into rows.
 
+More data was included into tables after the videos were created.
+
+Dump20200420.sql file was created after more data was added to the db. (I couldn't dump individual .sql files after I re-populated the db. I tried quite a few time but was still unable to do so. However, the structure remained the same.)
+
 Hope this is helpful
