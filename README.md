@@ -17,3 +17,5 @@ More data was included into tables after the videos were created.
 Dump20200420.sql file was created after more data was added to the db. (I couldn't dump individual .sql files after I re-populated the db. I tried quite a few time but was still unable to do so. However, the structure remained the same.)
 
 Hope this is helpful
+
+https://drive.google.com/drive/folders/1Ap-oIQ-glFTAshbHqiB9H3a4HC3GwYfE?usp=sharing link to google drive where screencast videos are available
